@@ -1,19 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Alberto!
+#### I am a Software Engineer and Musician
+I am a multi-faceted, hispanic individual with a heart for multi-cultural communities. I have a passion for problem-solving and a knack for creativity that led me to embark on an exciting journey into the world of software engineering.
 
-I am Alberto, from Panamá. I am a multi-faceted, hispanic individual with a heart for multi-cultural communities. I have a passion for problem-solving and a knack for creativity that led me to embark on an exciting journey into the world of software engineering. 
+Skills: JAVASCRIPT / REACT / TYPESCRIPT / HTML / CSS / NODE / EXPRESS / MYSQL
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoleong)](https://github.com/albertoleong/github-readme-stats)
-<!--
-**albertoleong/albertoleong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on https://github.com/albertoleong/alberto-leong-capstone 
+- 🌱 I’m currently learning Python! 
+- 📫 How to reach me: https://www.linkedin.com/in/albertoleongfaundes 
+- 😄 Pronouns: he / him 
+- ⚡ Fun fact: I am a gigging guitar player and drummer 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/albertoleong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alberto_leong/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoleong&show_icons=true)  
+
