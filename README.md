@@ -4,7 +4,7 @@ I am a multi-faceted, hispanic individual with a heart for multi-cultural commun
 
 Skills: JAVASCRIPT / REACT / TYPESCRIPT / HTML / CSS / NODE / EXPRESS / MYSQL
 
-- 🔭 I’m currently working on https://github.com/albertoleong/alberto-leong-capstone 
+- 🔭 I’m currently working on https://github.com/albertoleong/LEGATO-musicians-platform
 - 🌱 I’m currently learning Python! 
 - 📫 How to reach me: https://www.linkedin.com/in/albertoleongfaundes 
 - 😄 Pronouns: he / him 
