@@ -4,7 +4,6 @@ I am a multi-faceted, hispanic individual with a heart for multi-cultural commun
 
 Skills: JAVASCRIPT / REACT / TYPESCRIPT / HTML / CSS / NODE / EXPRESS / MYSQL
 
-- 🔭 I’m currently working on https://github.com/albertoleong/LEGATO-musicians-platform 
 - 📫 How to reach me: https://www.linkedin.com/in/albertoleongfaundes 
 - 😄 Pronouns: he / him 
 - ⚡ Fun fact: I am a gigging guitar player and drummer 
